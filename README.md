@@ -10,3 +10,5 @@ Usage:
 Simply input text, and the analyzer will return the sentiment score along with a classification. Ideal for analyzing social media comments, reviews, and general text data.
 
 Feel free to contribute or improve the model! 🚀
+
+Created By Nomula Laxmi Sanajana 
