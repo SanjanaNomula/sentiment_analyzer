@@ -48,7 +48,7 @@ def main():
                 margin-right: 10px;
             }
             </style>
-            <a href="https://https://github.com/SanjanaNomula" class="github-button" target="_blank">
+            <a href="https://github.com/SanjanaNomula" class="github-button" target="_blank">
                 <i class="fab fa-github"></i> GitHub
             </a>
             """,
