@@ -15,7 +15,7 @@ def load_sentiment_model():
     return sia_model
 
 def display_projects():
-    st.title("Sentiment Analysis")
+    st.title("Sentiment Analysis 🎭")
     user_input = st.text_input("Enter the Text to Analyse:")
     if user_input:
         sia_model = load_sentiment_model()
